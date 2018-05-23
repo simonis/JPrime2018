@@ -1,0 +1,4 @@
+[submodule "CDS"]
+	path = CDS
+	url = https://github.com/simonis/CDS
+	branch = JEEConf2018
